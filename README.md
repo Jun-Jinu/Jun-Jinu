@@ -3,7 +3,7 @@
 <br>
 
 ## :mag: About Me
-### - Learning & Studing -
+### - Learning & Studying -
   - :gem: Machine Learning
   - :gem: Algorithms
   - :gem: Flutter & React
