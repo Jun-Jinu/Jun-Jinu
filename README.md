@@ -9,7 +9,7 @@
   - :gem: Flutter & React
 
 ### - Hobbies -
-  - :gem: Taking a trip
+  - :gem: Taking trip
   - :gem: Reading novel
   - :gem: Watching dramas
 
