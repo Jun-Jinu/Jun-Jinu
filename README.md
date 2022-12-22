@@ -4,7 +4,6 @@
 
 ## :mag: About Me
 ### - Learning & Studying -
-  - :gem: Machine Learning
   - :gem: Algorithms
   - :gem: Flutter & React
 
