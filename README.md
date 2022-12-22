@@ -10,7 +10,6 @@
 ### - Hobbies -
   - :gem: Taking trip
   - :gem: Reading novel
-  - :gem: Watching dramas
 
 <br><br>
 ## :wrench: I code with
