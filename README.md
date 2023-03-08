@@ -3,13 +3,9 @@
 <br>
 
   ## :mag: About Me
-  ### - Learning & Studying -
-    - :gem: Algorithms
-    - :gem: Flutter & React
-
-  ### - Hobbies -
-    - :gem: Taking trip
-    - :gem: Reading novel
+    - :gem: 웹과 앱 프론트엔드 개발을 좋아합니다
+    - :gem: 기술로 만들 수 있는 가치와 영향력에 관심이 많습니다
+    - :gem: 개발을 포함해서 다양한 분야의 창작물에 호기심이 있습니다
     
    <a href="https://instagram.com/forward_ooh">
       <img 
@@ -33,7 +29,8 @@
   ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 
   ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
+  ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+  
   <!---
   ![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)
   ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
@@ -41,7 +38,6 @@
   ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
   ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
   ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-  ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
 
 
