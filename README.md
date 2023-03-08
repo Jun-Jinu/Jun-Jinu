@@ -3,17 +3,19 @@
 <br>
 
   ## :mag: About Me
-    - :gem: 웹과 앱 프론트엔드 개발을 좋아합니다
-    - :gem: 기술로 만들 수 있는 가치와 영향력에 관심이 많습니다
-    - :gem: 개발을 포함해서 다양한 분야의 창작물에 호기심이 있습니다
+  
+   - :gem: 웹과 앱 프론트엔드 개발을 좋아합니다
+   - :gem: 기술로 만들 수 있는 가치와 영향력에 관심이 많습니다
+   - :gem: 개발을 포함해서 다양한 분야의 창작물에 호기심이 있습니다
     
+<br>
+
    <a href="https://instagram.com/forward_ooh">
       <img 
           src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/forward_ooh/"
           style="height : auto; margin-left : 10px; margin-right : 10px;"/>
   </a>
 
-  <br><br>
   ## :wrench: I code with
   
   
